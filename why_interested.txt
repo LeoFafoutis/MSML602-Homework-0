@@ -1,0 +1,3 @@
+"Why are you interested in taking DATA602?"
+
+Because data science is interesting.
